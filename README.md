@@ -1,92 +1,162 @@
-<h1 align="center">
-  Hi, I'm Stefano Cassese 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+# Hi there, I'm Stefano Cassese 👋
 
-<p align="center">
-  <b>Cybersecurity Student | Software Developer | AI Enthusiast</b>
-</p>
+### 💻 Full Stack Developer | 🔐 Cybersecurity Student | 🚀 Founder of Cassese Digital Studio
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=13E3F7&center=true&vCenter=true&width=800&lines=Cybersecurity+Student;Software+Developer;Interested+in+AI+%26+Automation;Always+Learning+%F0%9F%9A%80">
-</a>
+I'm a Software Developer from Buenos Aires, Argentina, passionate about building modern digital products that solve real-world problems.
 
-<img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+Currently, I work as a **Freelance Web Developer** through **Cassese Digital Studio**, where I design and develop websites, SaaS platforms, internal systems and digital solutions for businesses and entrepreneurs.
+
+Alongside software development, I'm pursuing a **Bachelor's Degree in Cybersecurity**, expanding my knowledge in information security, networking, digital forensics and IT infrastructure.
 
 ---
 
-## 💫 About Me
+# 🚀 What I'm Working On
 
-I'm a **Cybersecurity student** and **Software Development student**, focused on building a strong foundation in both **technology and security**.
-
-I have experience in:
-- Problem solving and incident management  
-- Process analysis and optimization  
-- Team coordination and leadership  
-
-💡 I actively use **AI tools (GPT, Claude, Gemini)** to:
-- analyze information  
-- automate tasks  
-- assist in technical problem solving  
-- optimize workflows  
-
-I'm especially interested in:
-- Cybersecurity 🔐  
-- IT Support & Systems 🖥️  
-- AI applied to real-world solutions 🤖  
+- 🌐 Developing modern websites and web applications
+- ⚡ Building SaaS products
+- 🔌 Integrating REST APIs
+- 🤖 Automating workflows with n8n
+- 📱 Learning Mobile Development with React Native
+- 🔐 Expanding my Cybersecurity skills through hands-on projects
+- 💼 Growing Cassese Digital Studio
 
 ---
 
-## 🧠 Skills
+# 🛠️ Tech Stack
 
-### 💻 Programming & Tech
-<span> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"> 
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-</span>
+## Frontend
 
-### ⚙️ Technologies & Tools
-<span> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"> 
-</span>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwind-css)
 
+## Backend
 
-🗄️ Databases
-<span> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"> </span>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
 
-### 🔐 Cybersecurity (Foundations)
-- Basic networking (TCP/IP)  
-- Security fundamentals (CIA triad, vulnerabilities, risks)  
-- Information security best practices  
+## Databases
 
-### 🤖 AI & Automation
-- Use of AI tools (GPT, Claude, Gemini)  
-- Prompt design and optimization  
-- Task automation and workflow improvement  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
 
-### 🛠️ Hardware
-- Basic hardware maintenance (cleaning, diagnostics, setup)
+## Automation & Tools
 
----
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge)
 
-## 🌐 Languages
+## Cybersecurity
 
-- Spanish — Native  
-- Italian — Bilingual  
-- English — Intermediate / Advanced  
+- Information Security Fundamentals
+- ISO 27001 (Foundations)
+- NIST Cybersecurity Framework (Foundations)
+- TCP/IP Networking
+- Digital Forensics
+- Windows & Linux
 
 ---
 
-## 🤝 Connect with me
+# ⭐ Featured Projects
 
-<a href="https://www.linkedin.com/in/stefanocasseseprofile/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-405DE6?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### 🌐 Cassese Digital Studio
 
-📫 Email: stefanocassese99@gmail.com
+Development of digital solutions for businesses, including websites, SaaS platforms, automation and internal systems.
+
+**Tech:** React • Node.js • Tailwind CSS • MySQL • n8n
+
+---
+
+### 📊 SaaS Projects
+
+Custom management platforms focused on business process optimization.
+
+---
+
+### 📱 Mobile Development
+
+React Native applications focused on productivity and business solutions.
+
+---
+
+### 🔐 Cybersecurity Projects
+
+Currently building a practical cybersecurity portfolio including:
+
+- Network Traffic Analysis
+- Log Analysis
+- Threat Detection
+- Threat Hunting
+- Incident Response
+- Security Automation
+
+---
+
+# 🤖 AI & Productivity
+
+I use AI as a development partner to improve productivity and accelerate learning.
+
+Daily tools:
+
+- ChatGPT
+- Claude
+- Gemini
+- GitHub Copilot
+
+Applied to:
+
+- Software Development
+- Code Review
+- Documentation
+- Workflow Automation
+- Learning & Research
+
+---
+
+# 🎯 Current Goals
+
+- Build production-ready SaaS applications
+- Grow Cassese Digital Studio
+- Expand my Cybersecurity portfolio
+- Learn Cloud Technologies
+- Contribute to Open Source
+- Continue improving as a Full Stack Developer
+
+---
+
+# 🌍 Languages
+
+🇪🇸 Spanish — Native
+
+🇮🇹 Italian — Bilingual
+
+🇬🇧 English — Advanced
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**
+
+**stefanocassese99@gmail.com**
+
+💼 **LinkedIn**
+
+www.linkedin.com/in/stefanocassesprofilee
+
+🌐 **Portfolio**
+
+https://cassesedigitalstudio.netlify.app/
+
+💻 **GitHub**
+
+https://github.com/cassesestefanoit
+
+---
+
+⭐ *Always learning. Always building. Always improving.*
